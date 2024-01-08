@@ -15,8 +15,9 @@ export default function Navbar() {
   return (
     <nav className="navbar">
       <div className="container">
+        <img src="/avatar.png" className="avatar-image" alt="" />
         <Link href="/" className="logo">
-          Lutfhi.
+          Lars Reuter
         </Link>
 
         <ul className="nav-links">
