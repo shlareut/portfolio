@@ -17,18 +17,10 @@ function About() {
               About
             </h1>
             <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in exercitation
-              labore anim adipisicing amet irure tempor id pariatur nostrud
-              labore nulla veniam sunt occaecat est officia ut cillum do eiusmod
-              enim consequat nulla in ut esse irure ex commodo excepteur
-              pariatur in consectetur consectetur in dolor aliqua ex sint minim
-              dolore ut ea ad dolor est deserunt incididunt exercitation qui
-              laboris ad do minim sunt elit occaecat excepteur deserunt sint
-              sunt laboris dolore amet sit fugiat tempor reprehenderit laborum
-              et irure commodo exercitation ea excepteur esse mollit ad nisi sit
-              laboris dolore ad sunt eiusmod dolore do nisi id commodo in et
-              aliqua sed ullamco ea id duis aliquip commodo qui sed aute ut
-              aliqua.
+              I'm Lars, a software product manager who's learning to code. The
+              last ~5 years I spent in South-East Asia and drove product
+              development at various companies. Now I'm in Vienna and upleveling
+              my tech skills.
             </p>
           </div>
         </div>
